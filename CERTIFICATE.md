@@ -28,7 +28,10 @@ No formal proof assistant check, minimality of the counterexample, other huge in
 
 ## Guide's independent check
 
-pending
+12 November 2026: the guide reviewed the answer this repository is built from and recorded the verdict in
+[athanor-oeis tasks/README.md](https://github.com/iwasborninbali/athanor-oeis/blob/main/tasks/README.md): counterexample certified twice: A332101(n0) = A078607(n0) + 1 at n0 = 777451915729368.
+The write-up in this repository (`proof.md` and the programs, prepared by a Codex core on 13 November 2026) has not yet been
+re-read by the guide; until it is, this record stays a candidate.
 
 ## Verdict
 
