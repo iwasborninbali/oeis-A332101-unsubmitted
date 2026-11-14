@@ -3,7 +3,7 @@
 <!-- oeis-status:begin -->
 **OEIS status: not submitted** (lab registry, 15 Nov 2026).
 
-- [A332101](https://oeis.org/A332101), formula a(n) = A078607(n) + 2 fails at n = 777451915729368: **not-for-oeis** (2026-11-15: independent referee 15 Nov 2026: known since Best and te Riele 1976; the value is in A078607). Certificate: complete.
+- [A332101](https://oeis.org/A332101), formula a(n) = A078607(n) + 2 fails at n = 777451915729368: **candidate** (2026-11-15: owner 15 Nov 2026: no correction is too small; back to candidate, on hold with the doubts recorded). Certificate: complete.
 
 Rules and the full registry: [athanor-oeis](https://github.com/iwasborninbali/athanor-oeis/blob/main/REGISTRY.md).
 <!-- oeis-status:end -->
