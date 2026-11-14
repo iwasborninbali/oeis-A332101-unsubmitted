@@ -1,7 +1,7 @@
 # OEIS A332101: value at a possible exception (not yet submitted)
 
 <!-- oeis-status:begin -->
-**OEIS status: not submitted** (lab registry, 14 Nov 2026).
+**OEIS status: not submitted** (lab registry, 15 Nov 2026).
 
 - [A332101](https://oeis.org/A332101), formula a(n) = A078607(n) + 2 fails at n = 777451915729368: **candidate** (2026-11-13: repository built (core c5)). Certificate: complete.
 
